@@ -20,7 +20,7 @@ body{
   grid-template-areas:   'respiro'
                          'main'
                          ;
-  grid-template-rows: 11rem 1fr;
+  grid-template-rows: 15rem 1fr;
   grid-gap:1rem;
 }
 main{
